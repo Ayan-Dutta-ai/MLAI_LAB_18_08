@@ -52,10 +52,10 @@ A web-based pathfinding visualization tool that demonstrates various pathfinding
 
 ### Project Structure
 
-|-- index.html       # Main HTML file
-|-- styles.css       # Styling for the grid and UI
-|-- script.js        # Core JavaScript logic for algorithms and visualization
-|-- README.md        # Documentation
+    |-- index.html       # Main HTML file
+    |-- styles.css       # Styling for the grid and UI
+    |-- script.js        # Core JavaScript logic for algorithms and visualization
+    |-- README.md        # Documentation
 
 ## Algorithms Explained
 
