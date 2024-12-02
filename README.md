@@ -9,9 +9,7 @@ A web-based pathfinding visualization tool that demonstrates various pathfinding
 - **Interactive Grid**: A 20x20 grid where you can observe how the pathfinding algorithms work.
 - **Pathfinding Algorithms**:
   - Directional Heuristic
-  - Angular Heuristic
   - Octile Heuristic
-  - Dijkstra's Algorithm
 - **Dynamic Obstacles**: Randomly generate obstacles to challenge the algorithms.
 - **Visualization**: Visual representation of start point, goal point, obstacles, and the computed path.
 
