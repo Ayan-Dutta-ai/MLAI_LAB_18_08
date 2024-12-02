@@ -48,7 +48,7 @@ A web-based pathfinding visualization tool that demonstrates various pathfinding
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/pathfinding-visualization.git
+   git clone https://github.com/Ayan-Dutta-ai/MLAI_LAB_18_08.git
 
 ### Project Structure
 
